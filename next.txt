@@ -6,3 +6,6 @@ secound commit
 
 stash
 stash1
+
+
+for merge
